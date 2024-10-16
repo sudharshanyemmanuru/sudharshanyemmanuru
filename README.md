@@ -1,4 +1,13 @@
 ## Hi there 👋, my name is Sudarshan Yemmanuru
+I'm Tech Enthusiastic with strong Knowldge in Java Development and Building Restful API's using springboot. I have also worked on Microservice based projects which gives me a strong hands on experience in developing Microservices
+## My Skills
+Core Java
+Springboot
+HTML
+CSS
+JS
+React JS
+
 
 <!--
 **sudharshanyemmanuru/sudharshanyemmanuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
