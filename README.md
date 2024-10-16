@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Sudarshan
+## Hi there 👋, my name is Sudarshan Yemmanuru
 
 <!--
 **sudharshanyemmanuru/sudharshanyemmanuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
